@@ -42,7 +42,7 @@ Where n is the number of elements of the array
 5. Always look up
 Write a function that changes all lowercase letters of a string to uppercase.
 
-Prototype: char *string_toupper(char *);
+Prototype: char *stringtoupper(char *);
 
 6. Expect the best. Prepare for the worst. Capitalize on what comes
 Write a function that capitalizes all words of a string.
@@ -76,7 +76,7 @@ You are not allowed to use any ternary operation
 9. Numbers have life; they're not just symbols on paper
 Write a function that prints an integer.
 
-Prototype: void print_number(int n);
+Prototype: void printnumber(int n);
 You can only use _putchar function to print
 You are not allowed to use long
 You are not allowed to use arrays or pointers
